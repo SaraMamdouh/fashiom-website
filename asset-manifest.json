@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fashiom-website/static/css/main.9cc787e6.chunk.css",
-    "main.js": "/fashiom-website/static/js/main.f70409b3.chunk.js",
-    "main.js.map": "/fashiom-website/static/js/main.f70409b3.chunk.js.map",
+    "main.js": "/fashiom-website/static/js/main.e4597c65.chunk.js",
+    "main.js.map": "/fashiom-website/static/js/main.e4597c65.chunk.js.map",
     "runtime-main.js": "/fashiom-website/static/js/runtime-main.843ad65f.js",
     "runtime-main.js.map": "/fashiom-website/static/js/runtime-main.843ad65f.js.map",
     "static/js/2.bf05da00.chunk.js": "/fashiom-website/static/js/2.bf05da00.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.843ad65f.js",
     "static/js/2.bf05da00.chunk.js",
     "static/css/main.9cc787e6.chunk.css",
-    "static/js/main.f70409b3.chunk.js"
+    "static/js/main.e4597c65.chunk.js"
   ]
 }
