@@ -31,7 +31,7 @@ const Products =({fetchProduct,products,AddToCart})=>{
             <div className="product">
               <a href={"#"+product._id}
                onClick={()=>openModal(product)}>
-                <img src={product.image} alt={product.title}></img>
+                <img src={process.env.PUBLIC_URL+product.image} alt={product.title}></img>
                 <p>{product.title}</p>
               </a>
               <div className="product-price">
